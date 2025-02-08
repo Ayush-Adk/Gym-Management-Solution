@@ -34,3 +34,5 @@ This is a comprehensive **Gym Management System** developed using **ASP.NET Core
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/gym-management-solution.git
+
+   Ayush Adk
